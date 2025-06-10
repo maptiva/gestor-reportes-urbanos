@@ -2,3 +2,11 @@
 node_modules/
 *.env
 *.log
+
+# Archivos de datos de prueba o locales que no van al repo
+intersecciones_calles.geojson 
+# Si tienes el archivo de credenciales de Firebase Admin en esta carpeta, añádelo también:
+# tu-archivo-de-credenciales.json 
+# Y el script de carga si no quieres que esté en el repo:
+# cargar_chajari_simulados.js
+# borrar_datos_simulados.js
